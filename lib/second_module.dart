@@ -1,4 +1,5 @@
 library second_module;
+export 'SecondModuleScreen.dart';
 
 /// A Calculator.
 class CalculatorFromSecondModule {
